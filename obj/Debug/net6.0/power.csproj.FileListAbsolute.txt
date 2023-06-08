@@ -1,0 +1,15 @@
+C:\Users\LAB-7\source\repos\power\power\obj\Debug\net6.0\power.csproj.AssemblyReference.cache
+C:\Users\LAB-7\source\repos\power\power\obj\Debug\net6.0\power.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB-7\source\repos\power\power\obj\Debug\net6.0\power.AssemblyInfoInputs.cache
+C:\Users\LAB-7\source\repos\power\power\obj\Debug\net6.0\power.AssemblyInfo.cs
+C:\Users\LAB-7\source\repos\power\power\obj\Debug\net6.0\power.csproj.CoreCompileInputs.cache
+C:\Users\LAB-7\source\repos\power\power\bin\Debug\net6.0\power.exe
+C:\Users\LAB-7\source\repos\power\power\bin\Debug\net6.0\power.deps.json
+C:\Users\LAB-7\source\repos\power\power\bin\Debug\net6.0\power.runtimeconfig.json
+C:\Users\LAB-7\source\repos\power\power\bin\Debug\net6.0\power.dll
+C:\Users\LAB-7\source\repos\power\power\bin\Debug\net6.0\power.pdb
+C:\Users\LAB-7\source\repos\power\power\obj\Debug\net6.0\power.dll
+C:\Users\LAB-7\source\repos\power\power\obj\Debug\net6.0\refint\power.dll
+C:\Users\LAB-7\source\repos\power\power\obj\Debug\net6.0\power.pdb
+C:\Users\LAB-7\source\repos\power\power\obj\Debug\net6.0\power.genruntimeconfig.cache
+C:\Users\LAB-7\source\repos\power\power\obj\Debug\net6.0\ref\power.dll
